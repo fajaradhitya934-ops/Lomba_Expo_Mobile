@@ -1,0 +1,79 @@
+# ==========================================
+# Python & Virtual Environments (PENTING!)
+# ==========================================
+venv/
+.venv/
+env/
+.env/
+ENV/
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.pytest_cache/
+
+# ==========================================
+# Laravel / PHP / Node.js
+# ==========================================
+/vendor/
+/node_modules/
+.env
+.env.*
+!.env.example
+/.phpunit.cache
+/public/build
+/public/hot
+/public/storage
+/storage/*.key
+/storage/pail
+ Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+/auth.json
+
+# ==========================================
+# Miscellaneous & System
+# ==========================================
+*.class
+*.log
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# ==========================================
+# IDEs & Editors
+# ==========================================
+*.iml
+*.ipr
+*.iws
+.idea/
+.vscode/
+.fleet
+.nova
+.zed
+
+# ==========================================
+# Flutter / Dart / Android
+# ==========================================
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+/coverage/
+app.*.symbols
+app.*.map.json
+/android/app/debug
+/android/app/profile
+/android/app/release
+android/key.properties
+*.jks

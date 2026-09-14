@@ -1,0 +1,16 @@
+{
+    "levelNumber": 1,
+    "rewardPoints": 50,
+    "moduleText": "KISI-KISI UTS: PERANCANGAN WEB\n\n1. HTML (HyperText Markup Language) adalah standar bahasa yang digunakan untuk menampilkan dokumen di web.\n2. Tag <html> adalah elemen akar dari sebuah halaman.\n3. Tag <body> berisi konten utama yang terlihat oleh pengguna.\n\nTips: Hafalkan tag-tag dasar seperti <p>, <h1>, dan <a>.",
+    "visualReward": "<h1>Halo Web!</h1><p>Ini adalah hasil belajar pertamamu.</p>",
+    "quiz": {
+        "question": "Apa tag HTML yang digunakan untuk membuat judul utama?",
+        "correctIndex": 1,
+        "options": [
+            "<p>",
+            "<h1>",
+            "<a>",
+            "<div>"
+        ]
+    }
+}

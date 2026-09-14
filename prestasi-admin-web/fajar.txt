@@ -1,0 +1,22 @@
+tail -f storage/logs/laravel.log
+
+php artisan queue:work
+
+
+jalani ini kalau module nya ga ke up
+
+
+
+
+"config": {
+        "optimize-autoloader": true,
+        "preferred-install": "dist",
+        "sort-packages": true,
+        "allow-plugins": {
+            "pestphp/pest-plugin": true,
+            "php-http/discovery": true
+        }
+    },
+
+
+      "google/cloud-firestore": "^2.1",

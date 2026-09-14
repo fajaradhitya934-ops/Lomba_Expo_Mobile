@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "623364444953",
+    "project_id": "prestasi-51e6f",
+    "storage_bucket": "prestasi-51e6f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623364444953:android:a8a6576ea358f9e7d22b88",
+        "android_client_info": {
+          "package_name": "com.example.prestasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623364444953-eijce1hd0ivbima6l858ifdk4rof687d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.prestasi",
+            "certificate_hash": "871d0a87442c451c438f7acba1ad5252cd4615c2"
+          }
+        },
+        {
+          "client_id": "623364444953-epuvkde3qam7ael6ug7482bisng9jsqc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.prestasi",
+            "certificate_hash": "51caa29c26f78b6b2a31f4a58939be90292c196f"
+          }
+        },
+        {
+          "client_id": "623364444953-qhvtnniki9k9sipso7mjtden88jrea35.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.prestasi",
+            "certificate_hash": "7cc85248eb56581d0415437d7f07519373b31ceb"
+          }
+        },
+        {
+          "client_id": "623364444953-9se09d10q6v6trao9t5g0k8t4fvj7ahs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSWc1zC9Hs0vYv97Y_npOe26V8Ncj0dr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623364444953-9se09d10q6v6trao9t5g0k8t4fvj7ahs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "623364444953-l14jfcr9tg4tjeqopuagfr1ot6husoj0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.prestasi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

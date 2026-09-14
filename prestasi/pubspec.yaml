@@ -1,0 +1,45 @@
+name: prestasi
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.3.0
+  rxdart: ^0.27.7
+  
+  # Firebase 
+  flutter_secure_storage: ^10.3.1
+  firebase_core: ^3.1.1
+  firebase_auth: ^5.1.1
+  google_sign_in: ^6.1.6
+  cloud_firestore: ^5.0.1
+  syncfusion_flutter_pdfviewer: ^27.2.5 
+  web: ^0.5.1
+
+  google_fonts: ^8.1.0
+  cupertino_icons: ^1.0.8
+  camera: ^0.12.0+1
+  image_picker: ^1.2.2
+  google_generative_ai: ^0.4.7
+  http: ^1.6.0
+  firebase_storage: ^12.1.0
+  intl: ^0.19.0
+  url_launcher: ^6.3.2
+  dotted_border: ^2.0.0+3
+  image_picker_for_web: ^3.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0 
+
+flutter:
+  uses-material-design: true
+  assets:
+    - lib/screens/Selko/Screens/Logo.png
